@@ -13,7 +13,7 @@
 - Learning **Go**, **PostgreSQL**, **Docker** and everything around backend
 - Open to **internships** and **first junior backend** opportunities
 - Building small projects to grow my skills — see the pinned repos below
-- Reach me: [Telegram](https://t.me/ddfg7s) · firemelt@yandex.ru
+- Reach me: [Telegram](https://t.me/ddfg7s) · wokaxd.dev@gmail.com
 
 ---
 
